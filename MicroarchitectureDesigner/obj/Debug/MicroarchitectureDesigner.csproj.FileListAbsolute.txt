@@ -1,0 +1,10 @@
+d:\users\sondre\documents\visual studio 2015\Projects\MicroarchitectureDesigner\MicroarchitectureDesigner\bin\Debug\MicroarchitectureDesigner.exe.config
+d:\users\sondre\documents\visual studio 2015\Projects\MicroarchitectureDesigner\MicroarchitectureDesigner\bin\Debug\MicroarchitectureDesigner.exe
+d:\users\sondre\documents\visual studio 2015\Projects\MicroarchitectureDesigner\MicroarchitectureDesigner\bin\Debug\MicroarchitectureDesigner.pdb
+d:\users\sondre\documents\visual studio 2015\Projects\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.csprojResolveAssemblyReference.cache
+d:\users\sondre\documents\visual studio 2015\Projects\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.Form1.resources
+d:\users\sondre\documents\visual studio 2015\Projects\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.Properties.Resources.resources
+d:\users\sondre\documents\visual studio 2015\Projects\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.csproj.GenerateResource.Cache
+d:\users\sondre\documents\visual studio 2015\Projects\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.exe
+d:\users\sondre\documents\visual studio 2015\Projects\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.pdb
+d:\users\sondre\documents\visual studio 2015\Projects\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.RegisterModule.resources

@@ -1,0 +1,8 @@
+C:\Users\Sondre\source\repos\MicroarchitectureDesigner\MicroarchitectureDesigner\bin\Debug\MicroarchitectureDesigner.exe.config
+C:\Users\Sondre\source\repos\MicroarchitectureDesigner\MicroarchitectureDesigner\bin\Debug\MicroarchitectureDesigner.exe
+C:\Users\Sondre\source\repos\MicroarchitectureDesigner\MicroarchitectureDesigner\bin\Debug\MicroarchitectureDesigner.pdb
+C:\Users\Sondre\source\repos\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.MainForm.resources
+C:\Users\Sondre\source\repos\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.Properties.Resources.resources
+C:\Users\Sondre\source\repos\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\AssemblyEditor.csproj.GenerateResource.cache
+C:\Users\Sondre\source\repos\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.exe
+C:\Users\Sondre\source\repos\MicroarchitectureDesigner\MicroarchitectureDesigner\obj\Debug\MicroarchitectureDesigner.pdb
