@@ -1,8 +1,0 @@
-C:\Users\Sondre\source\repos\MicroarchitectureDesigner\CpuSim\bin\Debug\netstandard2.0\CpuSim.deps.json
-C:\Users\Sondre\source\repos\MicroarchitectureDesigner\CpuSim\bin\Debug\netstandard2.0\CpuSim.dll
-C:\Users\Sondre\source\repos\MicroarchitectureDesigner\CpuSim\bin\Debug\netstandard2.0\CpuSim.pdb
-C:\Users\Sondre\source\repos\MicroarchitectureDesigner\CpuSim\obj\Debug\netstandard2.0\CpuSim.csprojAssemblyReference.cache
-C:\Users\Sondre\source\repos\MicroarchitectureDesigner\CpuSim\obj\Debug\netstandard2.0\CpuSim.AssemblyInfoInputs.cache
-C:\Users\Sondre\source\repos\MicroarchitectureDesigner\CpuSim\obj\Debug\netstandard2.0\CpuSim.AssemblyInfo.cs
-C:\Users\Sondre\source\repos\MicroarchitectureDesigner\CpuSim\obj\Debug\netstandard2.0\CpuSim.dll
-C:\Users\Sondre\source\repos\MicroarchitectureDesigner\CpuSim\obj\Debug\netstandard2.0\CpuSim.pdb
